@@ -8,6 +8,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     <li><a href="index.html">Inicio</a></li>
                     <li><a href="doctores.html">Doctores</a></li>
                     <li><a href="boletin.html">Boletín</a></li>
+                    <li><a href="Testimonios.html">Testimonios</a></li>
+                    <li><a href="FAQ.html">Preguntas Frecuentes</a></li>
+                    <li><a href="Contactanos.html">Contactanos</a></li>
                 </ul>
             </nav>
         </div>
