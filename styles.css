@@ -67,6 +67,14 @@ section {
     margin-bottom: 2rem;
 }
 
+.Formulario {
+    background: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2rem;
+}
+
 h2 {
     color: #0056b3;
     border-bottom: 2px solid #e0e0e0;
